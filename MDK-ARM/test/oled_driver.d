@@ -1,0 +1,15 @@
+test\oled_driver.o: ..\icode\oled\OLED_driver.c
+test\oled_driver.o: D:\Keil_v5_5.23\ARM\PACK\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h
+test\oled_driver.o: .\RTE\_test\RTE_Components.h
+test\oled_driver.o: ../Drivers/CMSIS/Include/core_cm3.h
+test\oled_driver.o: D:\Keil_v5_5.23\ARM\ARMCC\Bin\..\include\stdint.h
+test\oled_driver.o: ../Drivers/CMSIS/Include/cmsis_version.h
+test\oled_driver.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+test\oled_driver.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+test\oled_driver.o: D:\Keil_v5_5.23\ARM\PACK\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h
+test\oled_driver.o: ..\icode\oled\OLED_driver.h
+test\oled_driver.o: D:\Keil_v5_5.23\ARM\ARMCC\Bin\..\include\string.h
+test\oled_driver.o: D:\Keil_v5_5.23\ARM\ARMCC\Bin\..\include\math.h
+test\oled_driver.o: D:\Keil_v5_5.23\ARM\ARMCC\Bin\..\include\stdbool.h
+test\oled_driver.o: D:\Keil_v5_5.23\ARM\ARMCC\Bin\..\include\stdarg.h
+test\oled_driver.o: D:\Keil_v5_5.23\ARM\ARMCC\Bin\..\include\stdio.h
